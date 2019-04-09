@@ -3,7 +3,7 @@ Spring Boot web services
 
 Involved
 
-Spring Data
+Spring Boot
 
 Spring MVC Rest Service
 
