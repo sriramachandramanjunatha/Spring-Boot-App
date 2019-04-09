@@ -5,5 +5,7 @@ import org.springframework.stereotype.Repository;
 import com.spring.boot.application.domain.DataModel;
 
 @Repository
-public interface DataModelRepository extends Repository<DataModel, String> {
+public interface DataModelRepository {
 }
+/*public interface DataModelRepository extends Repository<DataModel, String> {
+}*/
